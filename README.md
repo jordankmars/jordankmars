@@ -2,7 +2,7 @@
 
 I'm Jordan, a founder, engineer, and researcher based in Tucson, AZ and San Francisco, CA.
 
-Currently building Grxd and Mars Technologies.
+Currently building [Grxd](https://grxd.app) and [Mars Technologies](https://marste.ch).
 
 My primary tech stack is Next.JS with typescript, tailwind, and drizzle.
 
