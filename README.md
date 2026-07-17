@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey! ✌️
 
-<!--
-**jordankmars/jordankmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jordan, a founder, engineer, and researcher based in Tucson, AZ and San Francisco, CA.
 
-Here are some ideas to get you started:
+Currently building Grxd and Mars Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary tech stack is Next.JS with typescript, tailwind, and drizzle.
+
+I am pursuing my Master of Science in Management Information Systems from The University of Arizona.
+
+My favorite tools are Figma, Notion, and Apple's suite.
+
+Working towards improving human-system interaction and improving tech accesibility.
