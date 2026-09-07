@@ -1,5 +1,3 @@
-## Hey! ✌️
-
 I'm Jordan, a founder, engineer, and researcher based in Tucson, AZ and San Francisco, CA.
 
 Currently building Grxd and Mars Technologies.
